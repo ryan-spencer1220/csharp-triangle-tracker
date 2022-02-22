@@ -1,0 +1,15 @@
+/Users/macbookpro/Triangle-Tracker.Solution/Triangle-Tracker/bin/Debug/net5.0/Triangle-Tracker.deps.json
+/Users/macbookpro/Triangle-Tracker.Solution/Triangle-Tracker/bin/Debug/net5.0/Triangle-Tracker.dll
+/Users/macbookpro/Triangle-Tracker.Solution/Triangle-Tracker/bin/Debug/net5.0/ref/Triangle-Tracker.dll
+/Users/macbookpro/Triangle-Tracker.Solution/Triangle-Tracker/bin/Debug/net5.0/Triangle-Tracker.pdb
+/Users/macbookpro/Triangle-Tracker.Solution/Triangle-Tracker/obj/Debug/net5.0/Triangle-Tracker.csproj.AssemblyReference.cache
+/Users/macbookpro/Triangle-Tracker.Solution/Triangle-Tracker/obj/Debug/net5.0/Triangle-Tracker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Triangle-Tracker.Solution/Triangle-Tracker/obj/Debug/net5.0/Triangle-Tracker.AssemblyInfoInputs.cache
+/Users/macbookpro/Triangle-Tracker.Solution/Triangle-Tracker/obj/Debug/net5.0/Triangle-Tracker.AssemblyInfo.cs
+/Users/macbookpro/Triangle-Tracker.Solution/Triangle-Tracker/obj/Debug/net5.0/Triangle-Tracker.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Triangle-Tracker.Solution/Triangle-Tracker/obj/Debug/net5.0/Triangle-Tracker.dll
+/Users/macbookpro/Triangle-Tracker.Solution/Triangle-Tracker/obj/Debug/net5.0/ref/Triangle-Tracker.dll
+/Users/macbookpro/Triangle-Tracker.Solution/Triangle-Tracker/obj/Debug/net5.0/Triangle-Tracker.pdb
+/Users/macbookpro/Triangle-Tracker.Solution/Triangle-Tracker/bin/Debug/net5.0/Triangle-Tracker.runtimeconfig.json
+/Users/macbookpro/Triangle-Tracker.Solution/Triangle-Tracker/bin/Debug/net5.0/Triangle-Tracker.runtimeconfig.dev.json
+/Users/macbookpro/Triangle-Tracker.Solution/Triangle-Tracker/obj/Debug/net5.0/Triangle-Tracker.genruntimeconfig.cache
